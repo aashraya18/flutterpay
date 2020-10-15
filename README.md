@@ -1,6 +1,6 @@
 # flutterpay
 
-A new Flutter application.
+A new Flutter application integrated with razorpay.
 
 ## Getting Started
 
